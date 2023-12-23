@@ -11,6 +11,38 @@
     {
       "name": "EntryAbility_label",
       "value": "label"
+    },
+    {
+      "name": "HomeWelcomeTitle_en",
+      "value": "Welcome To OneLight"
+    },
+    {
+      "name": "HomeWelcomeTitle_ch",
+      "value": "这是一个专属年轻人的app"
+    },
+    {
+      "name": "HomeWelcomeTooltip_1",
+      "value": "在这里，你可以"
+    },
+    {
+      "name": "HomeWelcomeTooltip_2",
+      "value": "分享美食、社交、数码、时尚"
+    },
+    {
+      "name": "HomeWelcomeTooltip_3",
+      "value": "或者"
+    },
+    {
+      "name": "HomeWelcomeTooltip_4",
+      "value": "加入我们"
+    },
+    {
+      "name": "HomeWelcomeTooltip_5",
+      "value": "的团队"
+    },
+    {
+      "name": "register",
+      "value": "注册/登录"
     }
   ]
 }

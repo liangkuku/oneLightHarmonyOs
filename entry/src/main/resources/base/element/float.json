@@ -1,0 +1,16 @@
+{
+  "float":[
+    {
+      "name": "home_swiper_borderRadius",
+      "value": "16vp"
+    },
+    {
+      "name": "home_swiper_margin",
+      "value": "24vp"
+    },
+    {
+      "name": "page_title_text_size",
+      "value": "24fp"
+    }
+  ]
+}

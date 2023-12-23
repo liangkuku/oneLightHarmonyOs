@@ -1,17 +1,14 @@
+import Home from "../view/Home"
+import CommonConstants from '../common/constants/CommonConstants';
 @Entry
 @Component
 struct Index {
   @State message: string = 'Hello World'
 
   build() {
-    Row() {
-      Column() {
-        Text(this.message)
-          .fontSize(50)
-          .fontWeight(FontWeight.Bold)
-      }
-      .width('100%')
+    Column() {
+      Home()
     }
-    .height('100%')
+    .height(CommonConstants.FULL_PARENT)
   }
 }
