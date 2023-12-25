@@ -9,8 +9,12 @@
       "value": "24vp"
     },
     {
-      "name": "page_title_text_size",
+      "name": "page_main_title_text_size",
       "value": "24fp"
+    },
+    {
+      "name": "page_second_title_text_size",
+      "value": "19fp"
     }
   ]
 }

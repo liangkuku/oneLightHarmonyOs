@@ -43,6 +43,10 @@
     {
       "name": "register",
       "value": "注册/登录"
+    },
+    {
+      "name": "login",
+      "value": "登录"
     }
   ]
 }

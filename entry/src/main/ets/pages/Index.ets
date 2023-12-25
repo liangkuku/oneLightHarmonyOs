@@ -9,6 +9,6 @@ struct Index {
     Column() {
       Home()
     }
-    .height(CommonConstants.FULL_PARENT)
+    // .height(CommonConstants.FULL_PARENT)
   }
 }
