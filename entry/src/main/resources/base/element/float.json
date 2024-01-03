@@ -15,6 +15,38 @@
     {
       "name": "page_second_title_text_size",
       "value": "19fp"
+    },
+    {
+      "name": "login_input_height",
+      "value": "45vp"
+    },
+    {
+      "name": "big_text_size",
+      "value": "18fp"
+    },
+    {
+      "name": "input_margin_top",
+      "value": "24vp"
+    },
+    {
+      "name": "page_padding_hor",
+      "value": "12vp"
+    },
+    {
+      "name": "login_page_padding_bottom",
+      "value": "24vp"
+    },
+    {
+      "name": "login_page_padding_top",
+      "value": "48vp"
+    },
+    {
+      "name": "login_page_logo_size",
+      "value": "100vp"
+    },
+    {
+      "name": "image_back_size",
+      "value": "26vp"
     }
   ]
 }

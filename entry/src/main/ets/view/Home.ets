@@ -5,8 +5,7 @@ import router from '@ohos.router';
 @Component
 export default struct Login{
   private swiperController:SwiperController =new SwiperController()
-  @State phoneNumber: string = '';
-  @State verificationCode: string = '';
+
 
   @Builder
   customTitle(title:Resource,fontWeight:FontWeight,fontSize:Resource,fontColor?:Resource,click?:()=>void){
